@@ -1,0 +1,21 @@
+man :(manuel) es disponible sous linux et permet de visionnner le manuel d'une commande ou le manuel d'un fichier de configuration celle .
+l'interpréteur a demande quelle page de manuel voules-vous par ce que la commande ma manuel de autre commende.
+ls :(list) une commeande qui list les fichiers d'un répertoire .
+manls il fonctionne pas par ce que la commande non trouvée et pour la commande man 3 ls pas de saisie manuel pour ls dans la section 3.
+ls -l : permet de lister les attributs de fichiers .
+ls -h :affiche les fichiers .
+ls -l -h et ls -lh :les memes fontion de ls -l
+tout les command (ls -lct) ; (ls -a) ; (ls /ets) ; (lsubs) ; (ls --color) permet de lister un répertoire .
+pwd : (print working directory) affiche le nom absolu du répertire courant, elle vous permet de connaitre votre position dans l'arborescence et quand lance la commande (cd /) puis encore (pwd) elle permet de remonter à la racine de l'ensemble du systéme de fichiers .
+cd :(change directory) permet de se promener dans les répertoires et , (cd~): permet de revenit au répertoir précedent , (cd ..) : permet de remonter au répertoire , (cd /usr/bin/):se place dans le répertoire , (cd -): permet de revenir au répertoir précedent . 
+mdir :(make directory) crée répertoire vide.
+rmdir :(remove directory) supprime un répertoire vide. 
+touche : crée un nouveau fichier 
+cp : (copy) permet de copier des fichiers ou des répertoires 
+rm : (remove ) permet d'effacer des fichiers 
+mv : ( move ) permet de déplecer ou renommer des fichiers et des répertoires 
+lk : (link ) crée un lien vers un fichier 
+cat : (cancatenate ) affiche le contenu  d'un fichier 
+more : affiche un fichier page par page 
+less : affiche un fichier en permettant la navigation ainsi due certaines possibilités 
+
