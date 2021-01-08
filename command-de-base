@@ -14,8 +14,7 @@ touche : crée un nouveau fichier
 cp : (copy) permet de copier des fichiers ou des répertoires 
 rm : (remove ) permet d'effacer des fichiers 
 mv : ( move ) permet de déplecer ou renommer des fichiers et des répertoires 
-lk : (link ) crée un lien vers un fichier 
+ln : (link ) crée un lien vers un fichier 
 cat : (cancatenate ) affiche le contenu  d'un fichier 
 more : affiche un fichier page par page 
 less : affiche un fichier en permettant la navigation ainsi due certaines possibilités 
-
