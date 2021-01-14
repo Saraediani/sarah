@@ -1,3 +1,4 @@
+```c
 #include<stdio.h>
    void main (){
    	int a,b;
@@ -17,3 +18,4 @@
    	printf("la nombre de %d / le nombre de %d egal :%d \n",a,b,div);
    	
    }
+```
