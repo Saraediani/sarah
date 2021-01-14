@@ -1,3 +1,4 @@
+```c
 #include<stdio.h>
  int main (){
    //afichage infos personels
@@ -20,15 +21,6 @@
 
   printf("bonjour %s %s vous ets une %s age de %d votre numero de telephone et %d",prenom,nom,sex,age,numero);
 
-
-
-
-
-
-
-
-
-
-
      return 0;
  }
+```
